@@ -1,0 +1,9 @@
+
+##################
+# Authentication #
+##################
+azure-subscription-id = "<string>"
+azure-client-id       = "<string>"
+azure-client-secret   = "<string>"
+azure-tenant-id       = "<string>"
+

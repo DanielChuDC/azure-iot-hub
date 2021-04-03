@@ -1,0 +1,15 @@
+{
+  "name": "azure-iot-nodejs-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device-mqtt": "^1.15.3"
+  }
+}

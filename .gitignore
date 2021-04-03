@@ -45,3 +45,5 @@ ECS-SSH-PUBLIC-KEY
 
 ## node
 node_modules
+
+.DS_Store
